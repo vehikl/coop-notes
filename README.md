@@ -12,7 +12,9 @@ Navigator:
 - Only provide help to the driver if the driver requested it
 - Keep the mob in line
     - "Sounds good, do it in your turn."
-- May only voice concerns/disagreement to the Driver during the initial plan announcement, not during the main phase.
+- May voice concerns/disagreement to the Driver if:
+    - the implementation doesn't apply to the higher level instruction
+    - there's a flaw in the implementation (respecting 5 second rule) 
 
 Driver:
 - Only answer/talk to Navigator

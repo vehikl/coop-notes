@@ -30,6 +30,10 @@ Mob:
 - In case of strong disagreement/concerns, they are allowed to voice concerns to Navigator
     * This does NOT include disagreement on implementation
 
+Exceptions:
+- the person who has more context/domain knowledge should be able to speak up 
+if they see a better implementation/instruction
+
 --------
 
 Researcher: (Looks for info)

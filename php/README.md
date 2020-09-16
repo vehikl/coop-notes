@@ -12,6 +12,9 @@
     - the first time the test is being ran the snapshot will be created and the test will be skipped
     - every other time the test will use the generated snapshot to match the output of the tested code
     
+### Laravel
+- create new project `composer create-project laravel/laravel <project-name>`
+    
 ### Homestead
 - Setting up Homestead
     - run `composer require --dev laravel/homestead`
